@@ -1,0 +1,5 @@
+
+/env_wineprediction/
+/wqp.egg-info
+__pycache__/
+*.pyc

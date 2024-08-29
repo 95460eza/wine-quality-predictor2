@@ -1,0 +1,4 @@
+
+-e . # DOES PIP INSTALL -e . WIHOUT THAT 
+ipython # just if you need ipython to be installed in your virtual environment.
+click
